@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1638959542 source:c:\users\asus\desktop\projetc++h\biblio.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<string.h>
+	<stdlib.h>
+	"biblio.h"
+	<string.h>
+	"ens.h"
+	<fstream>
+	<cstdlib>
+	<fstream>
+
+1638953125 c:\users\asus\desktop\projetc++h\biblio.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ens.h"
+	"livre.h"
+	"etudiants.h"
+	"personne.h"
+	<cstring>
+	<string.h>
+
+1638709403 c:\users\asus\desktop\projetc++h\ens.h
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"personne.h"
+	"livre.h"
+	<string.h>
+
+1638669044 c:\users\asus\desktop\projetc++h\personne.h
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string.h>
+
+1638663170 c:\users\asus\desktop\projetc++h\livre.h
+	<string.h>
+	<iostream>
+
+1638925765 c:\users\asus\desktop\projetc++h\etudiants.h
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"personne.h"
+	"livre.h"
+	<string.h>
+
+1638709417 source:c:\users\asus\desktop\projetc++h\ens.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	"personne.h"
+	"ens.h"
+	<cstring>
+	<string.h>
+
+1638687340 source:c:\users\asus\desktop\projetc++h\etudiants.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	"personne.h"
+	"Etudiants.h"
+	<cstring>
+	<string.h>
+
+1638665489 source:c:\users\asus\desktop\projetc++h\livre.cpp
+	<iostream>
+	<stdio.h>
+	"livre.h"
+	<string.h>
+
+1638687357 source:c:\users\asus\desktop\projetc++h\personne.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"personne.h"
+	<string.h>
+	<cstring>
+
+1638960060 source:c:\users\asus\desktop\projetc++h\main.cpp
+	<tchar.h>
+	"myconio.h"
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	"biblio.h"
+	<string>
+	"etudiants.h"
+	"livre.h"
+	<fstream>
+	<new>
+	<cstring>
+	<string.h>
+	<fstream>
+
+1638709727 c:\users\asus\desktop\projetc++h\myconio.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+
+1638720092 source:c:\users\asus\desktop\projetc++h\myconio.cpp
+	"myconio.h"
+
+1638832534 source:c:\users\asus\desktop\projetc++h\erreur.cpp
+	<exception>
+	<string>
+	<iostream>
+
